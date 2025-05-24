@@ -16,10 +16,10 @@ Each machine in Vulnverse is:
 
 ## 💻 Machines Available
 
-| Machine            | Difficulty              | Focus Areas                                    |
-| ------------------ | ----------------------- | ---------------------------------------------- |
-| MediLabs NG        | Beginner – Intermediate | Default creds, File Upload, LFI, PrivEsc       |
-| *More Coming Soon* | —                       | A mix of beginner-to-intermediate web exploits |
+| Machine            | Difficulty              |
+| ------------------ | ----------------------- |
+| [MediLabs NG](https://github.com/w1t3ack3r/vulnverse/tree/main/MediLabs-NG)        | Beginner – Intermediate |
+| *More Coming Soon* | —                       |
 
 ---
 
