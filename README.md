@@ -23,30 +23,6 @@ Each machine in Vulnverse is:
 
 ---
 
-## 📁 Folder Structure
-
-Each machine is organized like this:
-
-```
-📁 vulnverse/
-│
-├── 📄 README.md
-│
-├── 📁 mediLabs-NG/
-│   ├── mediLabs.ova
-│   ├── setup-instructions.md
-│   ├── walkthrough.md
-│   └── web-app/ (if applicable)
-│       ├── index.php
-│       ├── login.php
-│       └── ...
-│
-└── 📁 future-machine/
-    └── ...
-```
-
----
-
 ## 🚀 Getting Started
 
 1. **Clone the Repo:**
