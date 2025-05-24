@@ -12,7 +12,7 @@ Welcome to MediLabs NG, a beginner-to-intermediate vulnerable machine designed f
 
 The `MediLabs-NG.ova` virtual machine image is hosted on Google Drive.
 
-* **Download Link:** **[🚨 YOUR GOOGLE DRIVE DOWNLOAD LINK FOR MediLabs-NG.ova GOES HERE 🚨]**
+* **Download Link:** [Google Drive Link](https://drive.google.com/drive/folders/1YIMEQ3rYAIpxKjFA8dGunTGYRHrd-YLB?usp=sharing)
     * *Instructions for users: Click the link above to download the `MediLabs-NG.ova` file. You might need to click a "Download anyway" button if Google Drive warns about not being able to scan large files for viruses.*
 
 Please ensure you have downloaded the `.ova` file before proceeding to the next step.
