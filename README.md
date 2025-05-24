@@ -52,7 +52,7 @@ Each machine is organized like this:
 1. **Clone the Repo:**
 
    ```bash
-   git clone https://github.com/yourusername/vulnverse.git
+   git clone https://github.com/w1t3ack3r/vulnverse.git
    cd vulnverse
    ```
 
