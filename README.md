@@ -25,19 +25,12 @@ Each machine in Vulnverse is:
 
 ## 🚀 Getting Started
 
-1. **Clone the Repo:**
-
-   ```bash
-   git clone https://github.com/w1t3ack3r/vulnverse.git
-   cd vulnverse
-   ```
-
-2. **Pick a Machine Folder:**
+1. **Pick a Machine Folder:**
    Open the `setup-instructions.md` for installation guidance.
 
-3. **Import the `.ova` into VirtualBox**
+2. **Import the `.ova` into VirtualBox**
 
-4. **Hack Away!**
+3. **Hack Away!**
    Use the `walkthrough.md` for hints or solutions (spoiler alert!).
 
 ---
@@ -53,7 +46,7 @@ Each machine in Vulnverse is:
 
 ## 👨‍💻 About This Project
 
-**Vulnverse** is built and maintained by **[w1t3ack3r](https://github.com/w1t3ack3r)**, a cybersecurity student and aspiring penetration tester 🇳🇬.
+**Vulnverse** is built and maintained by **[w1t3ack3r](https://github.com/w1t3ack3r)**, a cybersecurity student and penetration tester 🇳🇬.
 This project was developed during a 6-month **SIWES** (Industrial Training) program as a personal initiative to improve practical skills and contribute to the cybersecurity learning community.
 
 ---
