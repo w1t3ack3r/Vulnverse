@@ -26,7 +26,7 @@ Each machine in Vulnverse is:
 ## 🚀 Getting Started
 
 1. **Pick a Machine Folder:**
-   Open the `setup-instructions.md` for installation guidance.
+   Open the `README.md` for installation guidance.
 
 2. **Import the `.ova` into VirtualBox**
 
